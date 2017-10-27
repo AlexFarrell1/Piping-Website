@@ -66,3 +66,32 @@ body
 	top: 19.5%;
 	height: 55%;
 }
+
+#Jumbotron
+{
+	position: absolute;
+	width: 100%;
+	top: 9.6%;
+	height: 50%;
+	background-image: url(Jubotron-img.jpg);
+}
+
+#Jumbotron-Main-title
+{
+	position: absolute;
+	text-align: center;
+	font-size: 35px;
+	left: 40%;
+	top: 10%;
+	color: #ffffff;
+}
+
+#Under-Title
+{
+	position: absolute;
+	text-align: center;
+	font-size: 25px;
+	left: 40.2%;
+	top: 40%;
+	color: #ffffff;
+}

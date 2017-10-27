@@ -95,3 +95,100 @@ body
 	top: 40%;
 	color: #ffffff;
 }
+
+#content-area-1
+{
+	position: absolute;
+	left: 0%;
+	top: 59.5%;
+	height: 40%;
+	width: 100%;
+	background-color: #ffffff;
+	-webkit-box-shadow: -1px -9px 41px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px -9px 41px -1px rgba(0,0,0,0.75);
+	box-shadow: -1px -9px 41px -1px rgba(0,0,0,0.75);
+}
+
+#Easy-to-hire-img
+{
+	position: absolute;
+	left: 15%;
+	top: 8%;
+	height: 38%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+
+#Ezy-to-hire-Hedder
+{
+	position: absolute;
+	text-align: center;
+	font-size: 24px;
+	left: 14.7%;
+	top: 48%;
+}
+
+#Easy-to-Hire-Paragraph
+{
+	position: absolute;
+	left: 12%;
+	top: 66%;
+}
+
+#Bespoke-Service-Img
+{
+	position: absolute;
+	left: 45%;
+	height: 35%;
+	top: 7.8%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+
+#Bespoke-Service-Headder
+{
+	position: absolute;
+	text-align: center;
+	font-size: 24px;
+	left: 43%;
+	top: 46.7%;
+}
+
+#Bespoke-Service-Paragraph
+{
+	position: absolute;
+	left: 42%;
+	top: 65%;
+}
+
+#Finance-Img
+{
+	position: absolute;
+	left: 74%;
+	height: 35%;
+	top: 7.8%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+
+#Finance-Headder
+{
+	position: absolute;
+	text-align: center;
+	font-size: 24px;
+	left: 74.6%;
+	top: 46.7%;
+}
+
+#Finance-Paragraph
+{
+	position: absolute;
+	left: 71.2%;
+	top: 65%;
+}

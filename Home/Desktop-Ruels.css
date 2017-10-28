@@ -20,11 +20,19 @@ body
 
 }
 
+#Website-Logo
+{
+	position: absolute;
+	height: 100%;
+	top: -3%;
+	left: 8%;
+}
+
 #Hedder  h2
 {
 	position: absolute;
 	top: 5%;
-	left: 15%; 
+	left: 15%;
 }
 
 
@@ -191,4 +199,76 @@ body
 	position: absolute;
 	left: 71.2%;
 	top: 65%;
+}
+
+#content-area-2
+{
+	position: absolute;
+	left: 0%;
+	top: 99.7%;
+	height: 40%;
+	width: 100%;
+	background-color: #2E3754;
+	-webkit-box-shadow: -1px -5px 44px 6px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px -5px 44px 6px rgba(0,0,0,0.75);
+	box-shadow: -1px -5px 44px 6px rgba(0,0,0,0.75);
+}
+
+#Footer
+{
+	position: absolute;
+	left: 0%;
+	height: 20%;
+	width: 100%;
+	top: 138%;
+	background-color: #11141F;
+	-webkit-box-shadow: 4px -11px 25px 3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px -11px 25px 3px rgba(0,0,0,0.75);
+	box-shadow: 4px -11px 25px 3px rgba(0,0,0,0.75);
+
+}
+
+#Song-Recomendations-Img
+{
+	position: absolute;
+	left: 44%;
+	top: 5%;
+	height: 20%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+
+#Song-Recomendations-Hedder
+{
+	position: absolute;
+	color: #ffffff;
+	left: 39%;
+	top: 23%;
+}
+
+#Weddings-Table
+{
+	position: absolute;
+	color: #E58232;
+	left: 3%;
+	top: 4%;
+
+}
+
+#Burns-Night-Table
+{
+	position: absolute;
+	color: #E58232;
+	left: 43%;
+	top: 35%;
+}
+
+#Funerels-Table
+{
+	position: absolute;
+	color: #E58232;
+	left: 80%;
+	top: 4%;
 }

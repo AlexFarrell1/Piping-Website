@@ -218,7 +218,7 @@ body
 {
 	position: absolute;
 	left: 0%;
-	height: 20%;
+	height: 25%;
 	width: 100%;
 	top: 138%;
 	background-color: #11141F;
@@ -271,4 +271,41 @@ body
 	color: #E58232;
 	left: 80%;
 	top: 4%;
+}
+
+#CopyRight
+{
+	position: absolute;
+	top: 88%;
+	left: 0%;
+	margin: 0%;
+	padding: 0%;
+	color: #636EB5;
+}
+
+#Facebook-Footer
+{
+	position: absolute;
+	left: 2.5%;
+	top: 55%;
+	height: 25%;
+}
+
+#Twitter-Footer
+{
+	position: absolute;
+	top: 55%;
+	left: 6.7%;
+	height: 25%;
+}
+
+#Teeside-Pipe-Band-Link
+{
+	position: absolute;
+	left: 25%;
+	color: #636EB5;
+	text-decoration: none;
+	margin: 0%;
+	padding: 0%;
+	top: 88%;
 }
